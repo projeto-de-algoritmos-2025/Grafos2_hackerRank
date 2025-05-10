@@ -137,7 +137,7 @@ Explicamos o código de nível difícil do HackerRank, como estava difícil de e
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=nXo-YzBztkY" target="_blank">HackerRank Problem + Labyrinth Game</a></td>
+            <td><a href="" target="_blank">M</a></td>
         </tr>
     </tbody>
 </table>
