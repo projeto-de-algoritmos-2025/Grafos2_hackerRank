@@ -90,7 +90,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 ## Screenshots do HackerRank
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil HackerRank</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
 </div>
 
 <div align="center">
@@ -99,7 +99,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil HackerRank</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
 </div>
 
 <div align="center">
@@ -108,7 +108,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil HackerRank</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão média HackerRank</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão média HackerRank Special Subtree</b></p></font>
 </div>
 
 <div align="center">
@@ -126,7 +126,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão média HackerRank</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão média HackerRank Special Subtree</b></p></font>
 </div>
 
 <div align="center">
@@ -159,7 +159,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <img src="Assets/floyd/f2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil HackerRank Floyd</b></p></font>
 </div>
 
 <div align="center">
@@ -167,7 +167,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 10: Resultados questão difícil HackerRank Floyd</b></p></font>
 </div>
 
 <div align="center">
@@ -175,7 +175,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 10: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 11: Resultados questão difícil HackerRank Floyd</b></p></font>
 </div>
 
 <div align="center">
