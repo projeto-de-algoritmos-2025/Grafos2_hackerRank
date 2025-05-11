@@ -86,42 +86,6 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 ## Screenshots do HackerRank
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: X</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Y</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Z</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/11.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: M</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/10.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil HackerRank</b></p></font>
 </div>
 
@@ -167,16 +131,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Y</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Z</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Z</b></p></font>
 </div>
 
 <div align="center">
@@ -185,7 +140,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: M</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: M</b></p></font>
 </div>
 
 <div align="center">
