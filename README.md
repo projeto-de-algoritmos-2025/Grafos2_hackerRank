@@ -30,8 +30,12 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
             <td>Difícil 01</td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Z</td>
+            <td><a href="https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem?isFullScreen=true" target="_blank">Floyd City of Blinding Lights</td>
             <td>Difícil 02</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.hackerrank.com/challenges/minimum-mst-graph/problem?isFullScreen=true" target="_blank">Minimum MST Graph</td>
+            <td>Difícil 03</td>
         </tr>
     </tbody>
 </table>
@@ -131,26 +135,57 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Z</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil HackerRank MST</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/11.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/mst/m1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: M</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil HackerRank Floyd</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/10.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/floyd/f1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil HackerRank Floyd</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/floyd/f2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil HackerRank Floyd</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/floyd/f3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil HackerRank Floyd</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/floyd/f4.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 10: Resultados questão difícil HackerRank Floyd</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/floyd/f5.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 ## Vídeo
 
-Explicamos o código de nível difícil do HackerRank, como estava difícil de encaixar a explicação da questão média preferimos focar na explicação dos problemas de maior dificuldade.
+Explicamos todos os códigos que fizemos na plataforma HackerRank:
 
 </head>
 <body>
