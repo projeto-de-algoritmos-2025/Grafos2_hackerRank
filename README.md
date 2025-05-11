@@ -22,16 +22,16 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank">X</td>
-            <td>Médio</td>
+            <td><a href="https://www.hackerrank.com/challenges/primsmstsub/problem" target="_blank">Prim's (MST) : Special Subtree</td>
+            <td>Médio 01</td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Y</td>
-            <td>Difícil</td>
+            <td><a href="https://www.hackerrank.com/challenges/dijkstrashortreach/problem" target="_blank">Dijkstra: Shortest Reach 2</td>
+            <td>Difícil 01</td>
         </tr>
         <tr>
             <td><a href="" target="_blank">Z</td>
-            <td>Difícil</td>
+            <td>Difícil 02</td>
         </tr>
     </tbody>
 </table>
