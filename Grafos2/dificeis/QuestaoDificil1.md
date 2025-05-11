@@ -1,6 +1,6 @@
-## BFS: Shortest Reach in a Graph
+## Dijkstra: Shortest Reach 2
 
-https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
+https://www.hackerrank.com/challenges/dijkstrashortreach/problem
 
 # Nível da questão: <span style="color: red;">Difícil</span>
 
@@ -11,9 +11,3 @@ https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
 ![](/Assets/QuestaoDificil1_case0_2.png)
 
 ![](/Assets/QuestaoDificil1_case1_1.png)
-
-![](/Assets/QuestaoDificil1_case1_2.png)
-
-![](/Assets/QuestaoDificil1_case2_1.png)
-
-![](/Assets/QuestaoDificil1_case2_2.png)

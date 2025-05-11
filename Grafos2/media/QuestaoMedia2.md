@@ -1,9 +1,11 @@
-## BFS: Shortest Reach in a Graph
+## Prim's (MST) : Special Subtree
 
-link
+https://www.hackerrank.com/challenges/primsmstsub/problem
 
 # Nível da questão: <span style="color: red;">Média</span>
 
 ## Resultados do juiz eletrônico
 
-![](/Assets/arquivo)
+![](/Assets/QuestaoMedia1_case0_1.png)
+
+![](/Assets/QuestaoMedia1_case0_2.png)
